@@ -103,8 +103,8 @@ trees_json = trees.to_json(orient = 'split')
 
 app.layout=html.Div([
     html.H1('Bäume in Berlin'),
-    html.Div(text=Explainertext),
-    html.Div(text='Erstellt von: https://github.com/AnjaTRPES'),
+    html.Div(children=Explainertext),
+    html.Div(children='Erstellt von: https://github.com/AnjaTRPES'),
     html.Div(children=[
         html.Div(children=[
             dcc.Dropdown(id = 'variants_dropdown',
