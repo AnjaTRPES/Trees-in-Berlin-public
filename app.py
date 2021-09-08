@@ -172,7 +172,8 @@ def update_figure(more,value):
                         lon='lon',
                         hover_name="art_dtsch",
                         color='art_dtsch',
-                        zoom=9, center = {"lat": 52.5200, "lon": 13.4050}
+                        zoom=9, center = {"lat": 52.5200, "lon": 13.4050},
+                        labels = {'art_dtsch':'Art:'}
                        )
     fig.update_layout(mapbox_style="open-street-map",
                      uirevision='True',
