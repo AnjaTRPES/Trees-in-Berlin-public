@@ -81,7 +81,7 @@ Hier könnt ihr sehen, wo es welche Bäume gepflanzt wurden. Einfach die entspre
 Weiter unten könnt ihr euch dann über die entsprechende Baumsorte informieren - vorausgesetzt, der entsprechende
  Wikipediartikel existiert!
 
-Erstellt von: https://github.com/AnjaTRPES
+
 \n\n\n  \n
 '''
 
@@ -103,7 +103,8 @@ trees_json = trees.to_json(orient = 'split')
 
 app.layout=html.Div([
     html.H1('Bäume in Berlin'),
-    html.Div(children=Explainertext),
+    html.P(text=Explainertext),
+    html.P(text='Erstellt von: https://github.com/AnjaTRPES'),
     html.Div(children=[
         html.Div(children=[
             dcc.Dropdown(id = 'variants_dropdown',
