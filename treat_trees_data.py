@@ -125,7 +125,7 @@ def load_variant_git(repository, variant,bucket='static',folder='variants'):
         file = repository.get_contents(path_name)
         trees = pd.read_csv(io.StringIO(file.decoded_content.decode('utf-8')))
     except GithubException:
-        file = get_blob_content(repository,'master',path_name)
+        file = get_blob_content(repository,'main',path_name)
         b64 = base64.b64decode(file.content)
         trees = pd.read_csv(io.StringIO(b64.decode('utf-8')))
     return trees
