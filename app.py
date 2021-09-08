@@ -75,11 +75,11 @@ Explainertext = '''
 Es gibt jede Menge Bäume in Berlin - und die Stadt Berlin dokumentiert das! 
 Die Datensätze gibt es öffentlich auf https://daten.berlin.de/datensaetze.
 Hier könnt ihr sehen, wo es welche Bäume gepflanzt wurden. Einfach die entsprechende
- Art im Dropdown-menu auswählen - und euch werden die Sorten angezeigt! Bei zu vielen Sorten 
- (z.B. bei den Arten Linde und Ahorn) könnt ihr im zweiten Dropdown-menu dann verfeinern, denn bei
+ Art im Dropdown-Menü auswählen - und euch werden die Sorten angezeigt! Bei zu vielen Sorten 
+ (z.B. bei den Arten Linde und Ahorn) könnt ihr im zweiten Dropdown-Menü dann verfeinern, denn bei
  80 verschiedene Sorten blickt ja keiner mehr durch ;).
-Weiter unten könnt ihr euch dann über die entsprechende Baumsorte informieren - vorraussgesetzt, der entsprechende
- Wikipediartikel exestiert!
+Weiter unten könnt ihr euch dann über die entsprechende Baumsorte informieren - vorausgesetzt, der entsprechende
+ Wikipediartikel existiert!
 
 Erstellt von: https://github.com/AnjaTRPES
 \n\n\n  \n
