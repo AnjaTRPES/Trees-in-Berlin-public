@@ -72,9 +72,16 @@ variant_names = np.sort(np.array(variant_names))
 trees = tr.load_variant_git(repository, variant_names[0]+'-'+variant_names_ext[0][0])
 
 Explainertext = '''
-Es gibt jede Menge Bäume in Berlin, die die Stadt Berlin gepflanzt hat 
-(oder von denen sie weiß). Die Daten sind von XXX, und hier nach Baumsorten 
-sortiert. 
+Es gibt jede Menge Bäume in Berlin - und die Stadt Berlin dokumentiert das! 
+Die Datensätze gibt es öffentlich auf https://daten.berlin.de/datensaetze.
+Hier könnt ihr sehen, wo es welche Bäume gepflanzt wurden. Einfach die entsprechende
+ Art im Dropdown-menu auswählen - und euch werden die Sorten angezeigt! Bei zu vielen Sorten 
+ (z.B. bei den Arten Linde und Ahorn) könnt ihr im zweiten Dropdown-menu dann verfeinern, denn bei
+ 80 verschiedene Sorten blickt ja keiner mehr durch ;).
+Weiter unten könnt ihr euch dann über die entsprechende Baumsorte informieren - vorraussgesetzt, der entsprechende
+ Wikipediartikel exestiert!
+
+Erstellt von: https://github.com/AnjaTRPES
 \n\n\n  \n
 '''
 
