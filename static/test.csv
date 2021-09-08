@@ -1,0 +1,501 @@
+WKT,baumid,standortnr,kennzeich,namenr,art_dtsch,art_bot,gattung_deutsch,gattung,strname,hausnr,zusatz,pflanzjahr,standalter,kronedurch,stammumfg,baumhoehe,bezirk,eigentuemer
+POINT (404024.9902 5816241.2787),00008100:002b521e,37,40769,Eschenstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Eschenstraße,10,,1988.0,33.0,11.0,72.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403323.7935 5816177.4232),00008100:002b521f,1/1,40820,Fichtenstraße,Weide,Salix spec.,WEIDE,SALIX,Fichtenstraße,1,,1996.0,25.0,7.0,53.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403323.5122 5816175.2873),00008100:002b5220,1/2,40820,Fichtenstraße,Weide,Salix spec.,WEIDE,SALIX,Fichtenstraße,1,,1996.0,25.0,7.0,167.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403323.1365 5816170.9596),00008100:002b5221,1/4,40820,Fichtenstraße,Weide,Salix spec.,WEIDE,SALIX,Fichtenstraße,1,,1996.0,25.0,7.0,50.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403322.8614 5816169.2249),00008100:002b5222,1/5,40820,Fichtenstraße,Weide,Salix spec.,WEIDE,SALIX,Fichtenstraße,1,,2001.0,20.0,5.0,44.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403959.4575 5816290.7513),00008100:002b5223,32,40769,Eschenstraße,Eschen-Ahorn,Acer negundo,AHORN,ACER,Eschenstraße,12,,1996.0,25.0,9.0,94.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402980.681 5814997.7854),00008100:002b5224,19/1,40643,Druschiner Straße,Trauben-Kirsche,Prunus padus,,PRUNUS,Druschiner Straße,,,1996.0,25.0,7.0,50.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403572.1786 5815793.1749),00008100:002b5225,4,40687,Eichenstraße,Korkenzieher-Weide,Salix 'Tortuosa',WEIDE,SALIX,Eichenstraße,4b,,1991.0,30.0,7.0,172.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403554.4624 5815720.1324),00008100:002b5226,2/1,40687,Eichenstraße,Fichte,Picea spec.,FICHTE,PICEA,Eichenstraße,2,,1971.0,50.0,7.0,126.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403955.4458 5816294.5448),00008100:002b5227,31,40769,Eschenstraße,Eschen-Ahorn,Acer negundo,AHORN,ACER,Eschenstraße,12,,1966.0,55.0,17.0,141.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403971.0173 5816281.2494),00008100:002b5228,33,40769,Eschenstraße,"Sommer-Eiche, Stiel-Eiche",Quercus robur,EICHE,QUERCUS,Eschenstraße,12,,2001.0,20.0,7.0,44.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403057.441 5815081.058),00008100:002b5229,22/4,40816,Feuersteiner Straße,Fichte,Picea spec.,FICHTE,PICEA,Feuersteiner Straße,,,1996.0,25.0,5.0,47.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403460.2728 5816533.4757),00008100:002b522a,59/b16,41231,Heerstraße,"Sommer-Eiche, Stiel-Eiche",Quercus robur,EICHE,QUERCUS,Heerstraße,,,1976.0,45.0,18.0,192.0,18.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403458.2862 5816531.7997),00008100:002b522b,59/b15,41231,Heerstraße,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Heerstraße,,,1983.0,38.0,12.0,88.0,18.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402782.378 5816820.2474),00008100:002b522c,14,41231,Heerstraße,Esche,Fraxinus spec.,ESCHE,FRAXINUS,Heerstraße,,,1931.0,90.0,22.0,267.0,24.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403270.8348 5816634.1282),00008100:002b522d,58/1,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,58,,1991.0,30.0,8.0,63.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402795.2974 5816833.4142),00008100:002b522e,55,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1996.0,25.0,4.0,47.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402789.5369 5816818.4251),00008100:002b522f,15,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1901.0,120.0,24.0,361.0,24.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402823.0953 5816814.5835),00008100:002b5230,18,41231,Heerstraße,"Berg-Ahorn, Weiss-Ahorn",Acer pseudoplatanus,AHORN,ACER,Heerstraße,,,1981.0,40.0,13.0,151.0,17.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402772.8312 5816821.7176),00008100:002b5231,13,41231,Heerstraße,Esche,Fraxinus spec.,ESCHE,FRAXINUS,Heerstraße,,,1931.0,90.0,24.0,251.0,18.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402797.6101 5816833.0379),00008100:002b5232,54,41231,Heerstraße,"Berg-Ahorn, Weiss-Ahorn",Acer pseudoplatanus,AHORN,ACER,Heerstraße,,,1983.0,38.0,11.0,88.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403376.3883 5816584.7677),00008100:002b5233,59/e1,41231,Heerstraße,"Sommer-Eiche, Stiel-Eiche",Quercus robur,EICHE,QUERCUS,Heerstraße,59e,,1931.0,90.0,20.0,242.0,20.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402793.2437 5816833.8023),00008100:002b5234,56,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1989.0,32.0,7.0,69.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402761.2022 5816825.9005),00008100:002b5235,11,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1971.0,50.0,13.0,126.0,18.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402826.2255 5816812.824),00008100:002b5236,38,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1991.0,30.0,8.0,135.0,17.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402816.8731 5816815.957),00008100:002b5237,17,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1981.0,40.0,14.0,245.0,17.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403680.9386 5815429.2038),00008100:002b5238,6/4,41314,Hirschpfad,Essigbaum,Rhus typhina,ESSIGBAUM,RHUS,Hirschpfad,6,,1993.0,28.0,9.0,104.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402766.5598 5816823.2855),00008100:002b5239,12,41231,Heerstraße,"Sommer-Eiche, Stiel-Eiche",Quercus robur,EICHE,QUERCUS,Heerstraße,,,1961.0,60.0,12.0,157.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403442.741 5816528.3475),00008100:002b523a,82/2,41231,Heerstraße,Linde,Tilia spec.,LINDE,TILIA,Heerstraße,82,,2003.0,18.0,5.0,44.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402767.9654 5816824.4054),00008100:002b523b,20,41231,Heerstraße,Linde,Tilia spec.,LINDE,TILIA,Heerstraße,,,1993.0,28.0,8.0,84.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403440.7432 5816528.5453),00008100:002b523c,82/1,41231,Heerstraße,Unbekannt,Unbekannt,,UNBEKANNT,Heerstraße,82,,2003.0,18.0,5.0,79.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402903.6605 5817318.1255),00008100:002b523d,22,41364,Honsfelder Straße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Honsfelder Straße,,,2003.0,18.0,5.0,41.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403926.7289 5815540.0082),00008100:002b523e,33/1,41314,Hirschpfad,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Hirschpfad,33,,2001.0,20.0,3.0,41.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403919.128 5815536.6688),00008100:002b523f,33/2,41314,Hirschpfad,"Süss-Kirsche,Vogel-Kirsche",Prunus avium,,PRUNUS,Hirschpfad,33,,1981.0,40.0,7.0,88.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402770.7746 5816823.2167),00008100:002b5240,19,41231,Heerstraße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Heerstraße,,,1993.0,28.0,8.0,110.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402791.1404 5816834.256),00008100:002b5241,57,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1988.0,33.0,8.0,75.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402789.0451 5816837.2959),00008100:002b5242,58,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1991.0,30.0,7.0,63.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402799.4739 5816813.8872),00008100:002b5243,16,41231,Heerstraße,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Heerstraße,,,1931.0,90.0,24.0,251.0,24.0,Marzahn-Hellersdorf,Land Berlin
+POINT (399476.6773 5813821.3466),00008100:002b5298,4A/1,090564,Triniusstraße Ob ,Feldahorn 'Elsrijk',Acer campestre 'Elsrijk',AHORN,ACER,Triniusstraße,,,2021.0,0.0,1.0,20.0,5.0,Treptow-Köpenick,Land Berlin
+POINT (400989.1918 5821824.0455),00008100:002b5321,27/2,43836,Paul-Schwenk-Str.,"Berg-Ahorn, Weiss-Ahorn",Acer pseudoplatanus,AHORN,ACER,Paul-Schwenk-Straße,8,,,,6.0,72.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400982.6721 5821823.78),00008100:002b5322,27/1,43836,Paul-Schwenk-Str.,Gemeine Rosskastanie,Aesculus hippocastanum,ROSSKASTANIE,AESCULUS,Paul-Schwenk-Straße,8,,,,3.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401062.4477 5821924.0371),00008100:002b5323,53/1,43836,Paul-Schwenk-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Paul-Schwenk-Straße,16,,,,7.0,80.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401040.7082 5821900.787),00008100:002b5324,50/1,43836,Paul-Schwenk-Str.,Blaue Stech-Fichte 'Glauca',Picea pungens 'Glauca',FICHTE,PICEA,Paul-Schwenk-Straße,14,,,,4.0,68.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401084.8262 5821923.8172),00008100:002b5325,55,43836,Paul-Schwenk-Str.,Kiefer,Pinus spec.,KIEFER,PINUS,Paul-Schwenk-Straße,16,,,,6.0,154.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401064.5805 5821922.2931),00008100:002b5326,53/2,43836,Paul-Schwenk-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Paul-Schwenk-Straße,16,,,,7.0,93.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401123.896 5821926.4003),00008100:002b5327,65/1,43836,Paul-Schwenk-Str.,Linde,Tilia spec.,LINDE,TILIA,Paul-Schwenk-Straße,20,,,,4.0,51.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (389661.0069 5820798.4856),00008100:002b5374,8ggü/22,165600,Alexanderufer,Winter-Linde,Tilia cordata,LINDE,TILIA,Alexanderufer,8,ggü,2018.0,3.0,4.0,27.0,5.0,Mitte,Land Berlin
+POINT (400520.9809 5810367.74),00008100:002b53df,1,070643,Merlitzstraße Ahof VG,,,,,Merlitzstraße,,,,,0.0,0.0,0.0,Treptow-Köpenick,Land Berlin
+POINT (394505.7093 5822863.6595),00008100:002c2436,M 130,42164,Ostseestraße,Winter-Linde,Tilia cordata,LINDE,TILIA,Ostseestraße,,,2001.0,20.0,4.0,50.0,12.0,Pankow,Land Berlin
+POINT (394498.0545 5822862.6108),00008100:002c2437,M 128,42164,Ostseestraße,Ahornblättrige Platane,Platanus acerifolia,PLATANE,PLATANUS,Ostseestraße,,,2015.0,6.0,4.0,45.0,5.0,Pankow,Land Berlin
+POINT (403467.6915 5818730.3334),00008100:002c243f,1,40610,Dorfstraße,Stech-Fichte,Picea pungens,FICHTE,PICEA,Dorfstraße,20,,,,6.0,85.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403420.9726 5818774.2403),00008100:002c2440,1,40610,Dorfstraße,Winter-Linde,Tilia cordata,LINDE,TILIA,Dorfstraße,29,,,,11.0,47.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403706.7446 5818448.9722),00008100:002c2441,1,40610,Dorfstraße,Winter-Linde,Tilia cordata,LINDE,TILIA,Dorfstraße,41 ggüber,,,,7.0,60.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404051.235 5818882.6665),00008100:002c2442,13,43466,Wallstraße,Sand-Birke,Betula pendula,BIRKE,BETULA,Wallstraße,,hinter VOLKSBANK,1996.0,25.0,7.0,63.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404118.2045 5818651.3738),00008100:002c2444,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,1,,2018.0,3.0,3.0,47.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404047.9497 5818604.4329),00008100:002c2445,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,5,,2018.0,3.0,3.0,28.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404056.8699 5818610.7009),00008100:002c2446,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,5,,2018.0,3.0,3.0,41.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404020.0393 5818893.345),00008100:002c2447,14,43466,Wallstraße,Winter-Linde,Tilia cordata,LINDE,TILIA,Wallstraße,,Böschung hinter Volksbank,2001.0,20.0,6.0,60.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404062.8301 5818614.717),00008100:002c2448,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,4,,2018.0,3.0,3.0,31.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404081.7169 5818873.6939),00008100:002c2449,10,43466,Wallstraße,Gemeine Rosskastanie,Aesculus hippocastanum,ROSSKASTANIE,AESCULUS,Wallstraße,,PP Volksbank,2001.0,20.0,7.0,63.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404114.8021 5818866.534),00008100:002c244a,1,41857,Mädewalder Weg,Winter-Linde,Tilia cordata,LINDE,TILIA,Mädewalder Weg,,,,,6.0,50.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403760.0712 5818356.9922),00008100:002c244b,1,40610,Dorfstraße,Winter-Linde,Tilia cordata,LINDE,TILIA,Dorfstraße,4,,,,3.0,16.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404064.9291 5818887.7865),00008100:002c244c,11,43466,Wallstraße,Gemeine Rosskastanie,Aesculus hippocastanum,ROSSKASTANIE,AESCULUS,Wallstraße,,PP VOLKSBANK,2001.0,20.0,7.0,63.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404100.6009 5818639.7274),00008100:002c244d,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,2,,2018.0,3.0,3.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404071.9849 5818621.4539),00008100:002c244f,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,3/4,,2018.0,3.0,3.0,28.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404147.5139 5818689.326),00008100:002c2450,2,41857,Mädewalder Weg,Winter-Linde,Tilia cordata,LINDE,TILIA,Mädewalder Weg,49 ggüber,,,,10.0,182.0,17.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404093.1092 5818634.7445),00008100:002c2452,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,2,,2018.0,3.0,3.0,28.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403683.267 5818475.5393),00008100:002c2453,1,40610,Dorfstraße,Winter-Linde,Tilia cordata,LINDE,TILIA,Dorfstraße,39 ggüber,,,,7.0,72.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404081.9378 5818628.2666),00008100:002c2454,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,3,,2018.0,3.0,3.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404127.2641 5818658.5924),00008100:002c2455,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,1,,2018.0,3.0,3.0,,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404076.162 5818624.7258),00008100:002c2456,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,3,,2018.0,3.0,3.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404109.9 5818645.7657),00008100:002c2457,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,1,,2018.0,3.0,3.0,28.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404053.1738 5818595.4766),00008100:002c2458,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,11,,2018.0,3.0,3.0,41.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404124.3573 5818644.054),00008100:002c245a,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,14,,2018.0,3.0,3.0,44.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403994.1329 5818567.9704),00008100:002c245c,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,7b,,2018.0,3.0,3.0,35.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404025.0399 5818587.9329),00008100:002c245d,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,6,,2018.0,3.0,3.0,31.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404062.1342 5818601.9441),00008100:002c245e,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,11,,2018.0,3.0,3.0,28.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404005.0298 5818563.7958),00008100:002c245f,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,8,,2018.0,3.0,1.0,16.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404096.031 5818625.3195),00008100:002c2460,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,13,,2018.0,3.0,3.0,28.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404108.8042 5818633.7784),00008100:002c2461,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,14,,2018.0,3.0,3.0,38.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404022.5659 5818575.4222),00008100:002c2462,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,9,,2018.0,3.0,3.0,35.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404010.7403 5818579.571),00008100:002c2463,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,7,,,,3.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404130.9748 5818649.7246),00008100:002c2464,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,14,,,,3.0,35.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404830.6607 5818261.2237),00008100:002c2465,1,41371,Hornsteiner Weg,Kiefer,Pinus spec.,KIEFER,PINUS,Hornsteiner Weg,45,,2001.0,20.0,3.0,94.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404028.7345 5818579.8972),00008100:002c2466,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,9,,2018.0,3.0,,,,Marzahn-Hellersdorf,Land Berlin
+POINT (404013.2552 5818569.6387),00008100:002c2468,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,8,,2018.0,3.0,3.0,31.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404823.1597 5818261.755),00008100:002c2469,1,41371,Hornsteiner Weg,Kiefer,Pinus spec.,KIEFER,PINUS,Hornsteiner Weg,45,,2001.0,20.0,5.0,79.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404816.7107 5818262.5978),00008100:002c246b,1,41371,Hornsteiner Weg,Essigbaum,Rhus typhina,ESSIGBAUM,RHUS,Hornsteiner Weg,43,,2001.0,20.0,2.0,28.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404016.757 5818583.3279),00008100:002c246c,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,7,,,,3.0,31.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404147.7056 5818297.4862),00008100:002c246d,1,41492,Karlstraße (Kaulsdorf),Zweigriffliger Weissdorn 'Mutabilis',Crataegus laevigata 'Mutabilis',WEIßDORN,CRATAEGUS,Karlstraße,24,,,,4.0,44.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404086.7303 5818618.4822),00008100:002c246e,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,13,,2018.0,3.0,3.0,31.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404001.6717 5818560.8745),00008100:002c246f,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,8,,,,3.0,44.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404032.4906 5818593.3891),00008100:002c2470,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,6,,2018.0,3.0,3.0,38.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404044.116 5818589.625),00008100:002c2471,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,10,,2018.0,3.0,3.0,38.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404069.1473 5818606.8324),00008100:002c2472,1,40984,Georgstraße,"Eberesche, Mehlbeere",Sorbus spec.,MEHLBEERE,SORBUS,Georgstraße,12,,2018.0,3.0,3.0,38.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (389711.0333 5820963.104),00008100:002c247a,8ggü/2 ,165600,Alexanderufer,Winter-Linde,Tilia cordata,LINDE,TILIA,Alexanderufer,8,ggü,2020.0,1.0,1.5,24.0,6.0,Mitte,Land Berlin
+POINT (389712.2989 5820954.9406),00008100:002c247b,8ggü/3 ,165600,Alexanderufer,Winter-Linde,Tilia cordata,LINDE,TILIA,Alexanderufer,8,ggü,2020.0,1.0,1.5,24.0,5.5,Mitte,Land Berlin
+POINT (400951.5143 5821509.8357),00008100:002c247d,127,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,5.0,81.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400909.5027 5821561.1942),00008100:002c247e,277,43835,Martha-Arendsee-Str.,Winter-Linde,Tilia cordata,LINDE,TILIA,Martha-Arendsee-Straße,Parkplatz,,,,8.0,92.0,15.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400938.2952 5821510.4301),00008100:002c247f,147,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,7.0,95.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400910.9955 5821580.758),00008100:002c2480,307,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,10.0,109.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400907.8338 5821513.1978),00008100:002c2481,187,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,5.0,70.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400910.7155 5821510.9312),00008100:002c2482,177,43835,Martha-Arendsee-Str.,Sand-Birke,Betula pendula,BIRKE,BETULA,Martha-Arendsee-Straße,Parkplatz,,,,5.0,75.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400909.7051 5821568.3296),00008100:002c2483,287,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,10.0,116.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400930.0418 5821576.666),00008100:002c2484,317,43835,Martha-Arendsee-Str.,Blutpflaume,Prunus cerasifera 'Nigra',,PRUNUS,Martha-Arendsee-Straße,Parkplatz,,,,7.0,169.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400915.2517 5821510.193),00008100:002c2485,167,43835,Martha-Arendsee-Str.,"Berg-Ahorn, Weiss-Ahorn",Acer pseudoplatanus,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,10.0,87.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400938.434 5821565.9736),00008100:002c2486,327,43835,Martha-Arendsee-Str.,Blutpflaume,Prunus cerasifera 'Nigra',,PRUNUS,Martha-Arendsee-Straße,Parkplatz,,,,6.0,107.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400909.7891 5821516.9595),00008100:002c2487,197,43835,Martha-Arendsee-Str.,Blutpflaume,Prunus cerasifera 'Nigra',,PRUNUS,Martha-Arendsee-Straße,Parkplatz,,,,5.0,85.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400908.4848 5821530.8428),00008100:002c2488,237,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,10.0,83.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400944.9359 5821510.0624),00008100:002c2489,137,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,5.0,63.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400958.1993 5821510.1409),00008100:002c248a,117,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,7.0,79.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400925.7521 5821510.0779),00008100:002c248b,157,43835,Martha-Arendsee-Str.,"Berg-Ahorn, Weiss-Ahorn",Acer pseudoplatanus,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,6.0,82.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400910.4765 5821526.634),00008100:002c248c,217,43835,Martha-Arendsee-Str.,Blut-Pflaume,Prunus cerasifera,,PRUNUS,Martha-Arendsee-Straße,Parkplatz,,,,6.0,113.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400910.8343 5821535.2239),00008100:002c248d,247,43835,Martha-Arendsee-Str.,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Martha-Arendsee-Straße,Parkplatz,,,,9.0,184.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400909.0853 5821539.8221),00008100:002c248e,257,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,10.0,101.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400907.4159 5821526.4848),00008100:002c248f,227,43835,Martha-Arendsee-Str.,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Martha-Arendsee-Straße,Parkplatz,,,,3.0,45.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400908.1298 5821521.4111),00008100:002c2490,207,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,7.0,98.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400908.9944 5821556.0674),00008100:002c2491,267,43835,Martha-Arendsee-Str.,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Martha-Arendsee-Straße,Parkplatz,,,,4.0,45.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400910.2185 5821574.1219),00008100:002c2492,297,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,8.0,89.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402100.5592 5822041.1258),00008100:002c2493,16/1,43838,Scheibenbergstr.,Gemeine Rosskastanie,Aesculus hippocastanum,ROSSKASTANIE,AESCULUS,Scheibenbergstraße,31,,,,4.0,43.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402101.5963 5822093.3999),00008100:002c2494,23,43838,Scheibenbergstr.,Gemeine Rosskastanie,Aesculus hippocastanum,ROSSKASTANIE,AESCULUS,Scheibenbergstraße,37,,,,6.0,79.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400964.9264 5821516.8114),00008100:002c2495,97,43835,Martha-Arendsee-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Martha-Arendsee-Straße,Parkplatz,,,,6.0,76.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400965.7827 5821510.4146),00008100:002c2496,107,43835,Martha-Arendsee-Str.,Winter-Linde,Tilia cordata,LINDE,TILIA,Martha-Arendsee-Straße,Parkplatz,,,,8.0,73.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (372343.845 5814723.3412),00008100:002c2520,0001,00573-Str,Birkenallee,Serbische-Fichte,Picea omorika,FICHTE,PICEA,Birkenallee,,,1986.0,35.0,3.0,69.0,10.0,Spandau,Land Berlin
+POINT (400778.6975 5822687.9262),00008100:002c6533,1,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,1,,2000.0,21.0,4.0,57.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400796.3395 5823085.2165),00008100:002c6534,212,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,13,,2018.0,3.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400780.71 5822794.1594),00008100:002c6535,352,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,3,,2018.0,3.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400778.9104 5822696.0563),00008100:002c6536,2,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,1,,2000.0,21.0,2.0,47.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400795.0202 5823071.4379),00008100:002c6537,222,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,13,,2016.0,5.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400862.7051 5823510.452),00008100:002c6538,282,08345,Boxberger Straße,"Berg-Ahorn, Weiss-Ahorn",Acer pseudoplatanus,AHORN,ACER,Boxberger Straße,23,,2018.0,3.0,1.0,25.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400822.3486 5823262.5638),00008100:002c6539,322,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,17,,2018.0,3.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400839.7886 5823366.0613),00008100:002c653a,292,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,19,,2018.0,3.0,1.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400779.904 5822737.9482),00008100:002c653b,5,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,3,,2000.0,21.0,3.0,50.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400745.9377 5822107.5907),00008100:002c653c,190,08559,Georg-Knorr-Strasse,Holländische Ulme,Ulmus x hollandica,ULME,ULMUS,Georg-Knorr-Straße,,,2020.0,1.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400783.487 5822944.238),00008100:002c653d,252,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,11,,2018.0,3.0,2.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400751.9974 5822109.3917),00008100:002c653e,200,08559,Georg-Knorr-Strasse,Holländische Ulme,Ulmus x hollandica,ULME,ULMUS,Georg-Knorr-Straße,,,2020.0,1.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400840.7157 5823301.7132),00008100:002c653f,172,08345,Boxberger Straße,Feld-Ahorn,Acer campestre,AHORN,ACER,Boxberger Straße,,,2018.0,3.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400833.0381 5823324.7235),00008100:002c6540,312,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,19,,2018.0,3.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400885.6856 5823599.4447),00008100:002c6541,182,08345,Boxberger Straße,Feld-Ahorn,Acer campestre,AHORN,ACER,Boxberger Straße,,,2018.0,3.0,1.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400740.4456 5822105.8327),00008100:002c6542,180,08559,Georg-Knorr-Strasse,Holländische Ulme,Ulmus x hollandica,ULME,ULMUS,Georg-Knorr-Straße,,,2020.0,1.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400819.8745 5823248.3778),00008100:002c6543,332,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,17,,2018.0,3.0,1.0,28.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400729.088 5822101.866),00008100:002c6544,160,08559,Georg-Knorr-Strasse,Holländische Ulme,Ulmus x hollandica,ULME,ULMUS,Georg-Knorr-Straße,,,2020.0,1.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400800.5126 5823128.7725),00008100:002c6545,202,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,13,,2018.0,3.0,1.0,25.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400781.8577 5822119.3969),00008100:002c6546,230,08559,Georg-Knorr-Strasse,Holländische Ulme,Ulmus x hollandica,ULME,ULMUS,Georg-Knorr-Straße,,,2020.0,1.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400802.1818 5823143.7352),00008100:002c6547,192,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,13,,2018.0,3.0,1.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400778.8963 5822709.8447),00008100:002c6548,3,08345,Boxberger Straße,"Berg-Ahorn, Weiss-Ahorn",Acer pseudoplatanus,AHORN,ACER,Boxberger Straße,1,,,,1.0,22.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400793.6601 5823057.3624),00008100:002c6549,232,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,13,,2018.0,3.0,1.0,19.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400835.1108 5823338.6989),00008100:002c654a,302,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,19,,2018.0,3.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400782.0429 5822854.8644),00008100:002c654b,342,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,7,,2018.0,3.0,1.0,25.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400734.8207 5822103.9136),00008100:002c654c,170,08559,Georg-Knorr-Strasse,Holländische Ulme,Ulmus x hollandica,ULME,ULMUS,Georg-Knorr-Straße,,,2020.0,1.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400790.7175 5823030.0074),00008100:002c654d,242,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,13,,2018.0,3.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400793.993 5822868.5581),00008100:002c654e,162,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,4,,,,1.0,22.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400779.8842 5822751.9551),00008100:002c654f,6,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,3,,2000.0,21.0,3.0,50.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400768.7155 5822114.8496),00008100:002c6550,210,08559,Georg-Knorr-Strasse,Holländische Ulme,Ulmus x hollandica,ULME,ULMUS,Georg-Knorr-Straße,,,2020.0,1.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400811.8257 5823290.5715),00008100:002c6551,1,08344,Hornoer Ring,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Hornoer Ring,17,,,,2.0,35.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400780.5009 5822779.896),00008100:002c6552,8,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,3,,2000.0,21.0,3.0,53.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400783.0499 5822929.352),00008100:002c6553,272,08345,Boxberger Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Boxberger Straße,11,,2018.0,3.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400775.6231 5822117.1958),00008100:002c6554,220,08559,Georg-Knorr-Strasse,Holländische Ulme,Ulmus x hollandica,ULME,ULMUS,Georg-Knorr-Straße,,,2020.0,1.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400498.3285 5821988.7516),00008100:002c6555,150,08559,Georg-Knorr-Strasse,Eschen-Ahorn,Acer negundo,AHORN,ACER,Georg-Knorr-Straße,,,,,6.0,110.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (399309.3949 5813603.533),00008100:002c6556,M/20,090454,Schillerpromenade Ob ,Blutpflaume,Prunus cerasifera 'Nigra',,PRUNUS,Schillerpromenade,,,2021.0,0.0,1.0,20.0,5.0,Treptow-Köpenick,Land Berlin
+POINT (402870.6646 5822176.8689),00008100:002c655b,129,43840,Bärensteinstr.,"Grau-Tanne, Kolorado-Tanne",Abies concolor,Tanne,Abies,Bärensteinstraße,23,,,,4.0,,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400921.9434 5823730.9755),00008100:002c667e,1,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400909.5335 5823996.8207),00008100:002c667f,23,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400936.0717 5823778.8563),00008100:002c6680,5,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400927.6755 5824044.3875),00008100:002c6681,26,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,,,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400945.471 5824091.4399),00008100:002c6682,29,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400891.4757 5823950.0245),00008100:002c6683,20,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400873.3286 5823902.5256),00008100:002c6684,17,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,35.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400934.199 5823795.699),00008100:002c6685,6,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400928.3527 5823809.1823),00008100:002c6686,7,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400930.4591 5823754.0162),00008100:002c6687,3,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400939.5432 5824075.5564),00008100:002c6688,28,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400925.7299 5823742.147),00008100:002c6689,2,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400885.7379 5823934.4652),00008100:002c668a,19,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400879.7048 5823918.4112),00008100:002c668b,18,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400934.7633 5823766.8057),00008100:002c668c,4,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400866.8707 5823868.2762),00008100:002c668d,14,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400866.702 5823879.6039),00008100:002c668e,15,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400868.8794 5823890.5722),00008100:002c668f,16,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,35.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400921.6164 5824028.5216),00008100:002c6690,25,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400894.5787 5823833.5596),00008100:002c6691,10,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,35.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400915.6306 5824012.7149),00008100:002c6692,24,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400951.4701 5824107.1805),00008100:002c6693,30,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400897.7107 5823965.6803),00008100:002c6694,21,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,35.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400963.5584 5824138.4946),00008100:002c6695,32,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400884.6557 5823838.8125),00008100:002c6696,11,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,35.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400903.4816 5823981.2413),00008100:002c6697,22,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400918.4761 5823819.9622),00008100:002c6698,8,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400933.4444 5824059.9224),00008100:002c6699,27,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400906.8602 5823828.6452),00008100:002c669a,9,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400875.7982 5823847.4904),00008100:002c669b,12,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,35.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400869.6846 5823857.286),00008100:002c669c,13,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,31.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (384346.7744 5816213.7788),00008100:002c66a8,59/1,02830,Fritz-Wildung-Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Fritz-Wildung-Straße,,,,,,181.0,15.0,Charlottenburg-Wilmersdorf,Land Berlin
+POINT (402509.9462 5815252.6468),00008100:002c66fc,3,42879,Straße 19,Eschen-Ahorn,Acer negundo,AHORN,ACER,Straße 19,,,1976.0,45.0,9.0,107.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402503.3338 5815242.729),00008100:002c66fd,5,42879,Straße 19,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Straße 19,,,1976.0,45.0,14.0,383.0,15.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402519.2208 5815264.0677),00008100:002c66fe,1,42879,Straße 19,Eschen-Ahorn,Acer negundo,AHORN,ACER,Straße 19,,,1996.0,25.0,9.0,57.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403231.819 5815399.9767),00008100:002c66ff,2,42518,Sadowastraße,Ulme,Ulmus spec.,ULME,ULMUS,Sadowastraße,,,1981.0,40.0,12.0,113.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402513.7406 5815257.183),00008100:002c6700,2,42879,Straße 19,Eschen-Ahorn,Acer negundo,AHORN,ACER,Straße 19,,,1981.0,40.0,11.0,97.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402507.1586 5815249.0335),00008100:002c6701,4,42879,Straße 19,Eschen-Ahorn,Acer negundo,AHORN,ACER,Straße 19,,,1996.0,25.0,4.0,63.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402222.3956 5824011.2405),00008100:002c6727,971,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,7,,,,1.0,22.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402346.2417 5823934.5426),00008100:002c6728,987,44858,Mehrower Allee,"Süss-Kirsche,Vogel-Kirsche",Prunus avium,,PRUNUS,Mehrower Allee,17,,,,5.0,47.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402520.1167 5823861.7836),00008100:002c6729,967,44858,Mehrower Allee,Götterbaum,Ailanthus altissima,GÖTTERBAUM,AILANTHUS,Mehrower Allee,,,,,6.0,154.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402200.9305 5824023.3919),00008100:002c672a,968,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,5,,,,1.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402264.0095 5823988.0018),00008100:002c672b,977,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,11,,,,1.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402270.7571 5823983.5711),00008100:002c672c,978,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,11,,,,1.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402249.7344 5823995.8219),00008100:002c672d,975,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,9,,,,1.0,22.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402206.0468 5824019.9711),00008100:002c672e,969,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,5,,,,1.0,22.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402276.0496 5823980.4912),00008100:002c672f,979,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,11,,,,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402289.4883 5823965.0399),00008100:002c6730,980,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,13,,,,1.0,19.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402216.5006 5824014.5352),00008100:002c6731,970,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,5,,,,1.0,25.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402292.3969 5823963.1888),00008100:002c6732,981,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,,,,,1.0,22.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402299.8077 5823959.2476),00008100:002c6733,982,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,13,,,,1.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402305.9828 5823955.5032),00008100:002c6734,983,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,15,,,,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402313.0237 5823951.6546),00008100:002c6735,984,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,15,,,,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402504.4355 5823858.6856),00008100:002c6736,966,44858,Mehrower Allee,Götterbaum,Ailanthus altissima,GÖTTERBAUM,AILANTHUS,Mehrower Allee,,,,,4.0,100.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402227.8521 5824008.0968),00008100:002c6737,972,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,7,,,,1.0,22.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402243.9007 5823999.3284),00008100:002c6738,974,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,9,,,,1.0,22.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402259.4016 5823990.5726),00008100:002c6739,976,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,9,,,,1.0,19.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402328.2565 5823943.4678),00008100:002c673a,985,44858,Mehrower Allee,"Süss-Kirsche,Vogel-Kirsche",Prunus avium,,PRUNUS,Mehrower Allee,17,,,,6.0,60.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402236.2299 5824003.5968),00008100:002c673b,973,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,7,,,,1.0,22.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402335.0801 5823940.0363),00008100:002c673c,986,44858,Mehrower Allee,Schmalkronige Stadt-Ulme,Ulmus Hybride 'Lobel',ULME,ULMUS,Mehrower Allee,17,,,,1.0,22.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403310.3975 5821383.5001),00008100:002c6796,42,42696,Siegmarstr.,Amerikanische Rot-Eiche,Quercus rubra,EICHE,QUERCUS,Siegmarstraße,61,,1971.0,50.0,6.0,141.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403310.6127 5821384.7162),00008100:002c6797,41,42696,Siegmarstr.,Amerikanische Rot-Eiche,Quercus rubra,EICHE,QUERCUS,Siegmarstraße,61,,1921.0,100.0,17.0,270.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403313.9095 5821414.4748),00008100:002c6798,47,42696,Siegmarstr.,Walnuss,Juglans regia,WALNUSS,JUGLANS,Siegmarstraße,65,,1971.0,50.0,11.0,167.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402905.3787 5820406.0208),00008100:002c6799,1,43884,Wuhlestr.,Italienische Pyramiden-Pappel,Populus nigra 'Italica',PAPPEL,POPULUS,Wuhlestraße,2,,2019.0,2.0,1.0,16.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403226.494 5820801.3438),00008100:002c679a,44,42696,Siegmarstr.,Walnuss,Juglans regia,WALNUSS,JUGLANS,Siegmarstraße,10,,1991.0,30.0,6.0,164.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402908.8257 5820430.5736),00008100:002c679b,2,43884,Wuhlestr.,Italienische Pyramiden-Pappel,Populus nigra 'Italica',PAPPEL,POPULUS,Wuhlestraße,4,,,,1.0,16.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402708.2577 5820083.3092),00008100:002c679c,6,10856,Am Gewerbepark,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Am Gewerbepark,2 ggüber,,2011.0,10.0,2.0,44.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402692.7337 5820087.3081),00008100:002c679d,7,10856,Am Gewerbepark,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Am Gewerbepark,2 ggüber,,2011.0,10.0,,,,Marzahn-Hellersdorf,Land Berlin
+POINT (403237.39 5820858.994),00008100:002c679e,45,42696,Siegmarstr.,Rundblättrige Rotbuche,Fagus sylvatica 'Rotundifolia',BUCHE,FAGUS,Siegmarstraße,16,,1991.0,30.0,6.0,100.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402705.9875 5820074.769),00008100:002c679f,5,10856,Am Gewerbepark,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Am Gewerbepark,2,,2011.0,10.0,2.0,44.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402683.5171 5820089.7285),00008100:002c67a0,8,10856,Am Gewerbepark,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Am Gewerbepark,2 ggüber,,2011.0,10.0,2.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403301.4226 5821325.5725),00008100:002c67a1,43,42696,Siegmarstr.,Stech-Fichte,Picea pungens,FICHTE,PICEA,Siegmarstraße,59,,1991.0,30.0,4.0,101.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403325.8826 5821416.5239),00008100:002c67a2,46,42696,Siegmarstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Siegmarstraße,66,,1986.0,35.0,8.0,286.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403146.0695 5820267.5716),00008100:002c67a3,23,08507,Zum Forsthaus,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Zum Forsthaus,1,,2001.0,20.0,7.0,126.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402671.5364 5820093.1283),00008100:002c67a4,9,10856,Am Gewerbepark,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Am Gewerbepark,2 ggüber,,2011.0,10.0,1.0,25.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402671.6824 5820083.8229),00008100:002c67a5,1,10856,Am Gewerbepark,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Am Gewerbepark,2,,2011.0,10.0,2.0,38.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402911.6095 5820449.6986),00008100:002c67a6,4,43884,Wuhlestr.,Italienische Pyramiden-Pappel,Populus nigra 'Italica',PAPPEL,POPULUS,Wuhlestraße,6,,2019.0,2.0,1.0,13.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402914.4861 5820469.672),00008100:002c67a7,5,43884,Wuhlestr.,Italienische Pyramiden-Pappel,Populus nigra 'Italica',PAPPEL,POPULUS,Wuhlestraße,8,,2019.0,2.0,1.0,16.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402919.2042 5820501.6255),00008100:002c67a8,6,43884,Wuhlestr.,Linde,Tilia spec.,LINDE,TILIA,Wuhlestraße,8,,2016.0,5.0,4.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402910.5114 5820441.0511),00008100:002c67a9,3,43884,Wuhlestr.,Italienische Pyramiden-Pappel,Populus nigra 'Italica',PAPPEL,POPULUS,Wuhlestraße,4,,2019.0,2.0,1.0,16.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402682.3082 5820080.6814),00008100:002c67aa,2,10856,Am Gewerbepark,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Am Gewerbepark,2,,2011.0,10.0,2.0,44.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402690.2074 5820078.9169),00008100:002c67ab,3,10856,Am Gewerbepark,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Am Gewerbepark,2,,2011.0,10.0,2.0,47.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403295.2587 5821136.9956),00008100:002c67ac,25,41953,Mettlacher Str.,Rotblühende Rosskastanie,Aesculus carnea,ROSSKASTANIE,AESCULUS,Mettlacher Straße,12,,,,2.0,25.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (403332.8927 5821336.3025),00008100:002c67ad,10,43421,Völklinger Str.,Korkenzieher-Weide,Salix 'Tortuosa',WEIDE,SALIX,Völklinger Straße,11,,1991.0,30.0,7.0,185.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (394313.2924 5822453.5007),00008100:002c6872,47,42252,Pieskower Weg,"Berg-Ahorn, Weiss-Ahorn",Acer pseudoplatanus,AHORN,ACER,Pieskower Weg,,,2001.0,20.0,5.0,98.0,8.0,Pankow,Land Berlin
+POINT (394332.2591 5822440.9026),00008100:002c6873,57,42252,Pieskower Weg,Kirsche,Prunus spec.,,PRUNUS,Pieskower Weg,,,2001.0,20.0,5.0,51.0,5.0,Pankow,Land Berlin
+POINT (394337.2227 5822437.4695),00008100:002c6874,67,42252,Pieskower Weg,Esche,Fraxinus spec.,ESCHE,FRAXINUS,Pieskower Weg,,,,,4.0,88.0,3.0,Pankow,Land Berlin
+POINT (394342.7456 5822433.9941),00008100:002c6875,77,42252,Pieskower Weg,Götterbaum,Ailanthus altissima,GÖTTERBAUM,AILANTHUS,Pieskower Weg,,,2016.0,5.0,5.0,72.0,5.0,Pankow,Land Berlin
+POINT (402836.3841 5819051.3672),00008100:002c68ac,254,44067,Altentreptower Str.,Eschen-Ahorn,Acer negundo,AHORN,ACER,Altentreptower Straße,,,1991.0,30.0,8.0,94.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402838.3975 5819057.0263),00008100:002c68ad,255,44067,Altentreptower Str.,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Altentreptower Straße,,,,,8.0,119.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402838.521 5819058.9075),00008100:002c68af,256,44067,Altentreptower Str.,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Altentreptower Straße,,,,,6.0,50.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402989.5615 5819070.2015),00008100:002c68b0,258,44067,Altentreptower Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Altentreptower Straße,,,,,7.0,57.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402946.6937 5819070.7596),00008100:002c68b1,259,44067,Altentreptower Str.,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Altentreptower Straße,,,1991.0,30.0,9.0,104.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400972.1487 5824160.353),00008100:002c692a,34,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400961.2912 5824172.5892),00008100:002c692b,36,10982,Am Cleantech Business Park,Gemeine Rosskastanie,Aesculus hippocastanum,ROSSKASTANIE,AESCULUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400954.2312 5824153.4352),00008100:002c692c,41,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400905.6534 5824016.4023),00008100:002c692d,50,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400947.8748 5824126.8548),00008100:002c692e,43,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400863.6101 5823905.9403),00008100:002c692f,57,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400917.7469 5824047.6049),00008100:002c6930,48,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400867.9789 5823841.1856),00008100:002c6931,62,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400975.4912 5824172.0568),00008100:002c6932,35,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400930.3344 5824079.3675),00008100:002c6933,46,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400890.4852 5823824.0819),00008100:002c6934,64,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400935.9632 5824095.7497),00008100:002c6935,45,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400923.8859 5824063.8826),00008100:002c6936,47,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400893.6667 5823984.8693),00008100:002c6937,52,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400902.2741 5823819.4935),00008100:002c6938,65,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400924.491 5823792.0718),00008100:002c6939,68,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400925.0651 5823769.3121),00008100:002c693a,70,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400916.6011 5823746.6256),00008100:002c693b,72,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400950.1316 5824162.9835),00008100:002c693c,40,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400967.5558 5824149.733),00008100:002c693d,33,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400966.3752 5824186.6092),00008100:002c693e,37,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400899.666 5824000.6585),00008100:002c693f,51,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400859.4177 5823894.4784),00008100:002c6941,58,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400953.8561 5824185.2047),00008100:002c6942,38,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400911.5315 5823812.7285),00008100:002c6943,66,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400887.7524 5823969.1778),00008100:002c6944,53,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400919.4501 5823803.6446),00008100:002c6945,67,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400877.8484 5823831.3176),00008100:002c6946,63,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400946.8396 5824175.163),00008100:002c6947,39,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400911.7712 5824032.1511),00008100:002c6948,49,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400870.1001 5823922.7207),00008100:002c6949,56,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400882.1145 5823953.7807),00008100:002c694b,54,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400953.5442 5824142.1718),00008100:002c694c,42,10982,Am Cleantech Business Park,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400941.8215 5824110.6581),00008100:002c694d,44,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400856.4038 5823866.843),00008100:002c694f,60,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400926.2361 5823781.2273),00008100:002c6950,69,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400920.6628 5823757.148),00008100:002c6951,71,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (400912.3197 5823734.9808),00008100:002c6952,73,10982,Am Cleantech Business Park,Amberbaum,Liquidambar styraciflua,AMBERBAUM,LIQUIDAMBAR,Am Cleantech Business Park,,,2019.0,2.0,1.0,22.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402052.701 5824053.4825),00008100:002c699a,988,44858,Mehrower Allee,Sumpf-Eiche,Quercus palustris,EICHE,QUERCUS,Mehrower Allee,,,,,2.0,31.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402073.7959 5824050.3627),00008100:002c699b,989,44858,Mehrower Allee,Zerr-Eiche,Quercus cerris,EICHE,QUERCUS,Mehrower Allee,,,,,3.0,31.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402083.0217 5824049.4277),00008100:002c699c,990,44858,Mehrower Allee,Zerr-Eiche,Quercus cerris,EICHE,QUERCUS,Mehrower Allee,,,,,3.0,28.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402078.7901 5824039.7854),00008100:002c699d,991,44858,Mehrower Allee,Zerr-Eiche,Quercus cerris,EICHE,QUERCUS,Mehrower Allee,,,,,2.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402102.5708 5824026.5201),00008100:002c699e,992,44858,Mehrower Allee,Zerr-Eiche,Quercus cerris,EICHE,QUERCUS,Mehrower Allee,,,,,3.0,28.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (406627.3193 5819321.7392),00008100:002c6a7a,190/2,41747,Lemkestraße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Lemkestraße,190,,2014.0,7.0,2.0,37.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404770.2221 5820470.33),00008100:002c6a87,95,44877,Erich-Kästner-Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Erich-Kästner-Straße,71,,1991.0,30.0,6.0,72.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402605.6853 5821110.8656),00008100:002c6a91,128,40190,Annenstr.,"Süss-Kirsche,Vogel-Kirsche",Prunus avium,,PRUNUS,Annenstraße,88,,2001.0,20.0,5.0,72.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402203.5996 5821172.9808),00008100:002c6a92,127,40190,Annenstr.,Walnuss,Juglans regia,WALNUSS,JUGLANS,Annenstraße,51,,1996.0,25.0,7.0,75.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402436.4696 5821141.9144),00008100:002c6a93,131,40190,Annenstr.,Essigbaum,Rhus typhina,ESSIGBAUM,RHUS,Annenstraße,69,,2006.0,15.0,6.0,62.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401778.7299 5819234.8342),00008100:002c6a94,145,40658,Eckermannstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Eckermannstraße,,,2011.0,10.0,1.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402530.899 5821120.6098),00008100:002c6a95,129,40190,Annenstr.,"Esskastanie, Marone",Castanea sativa,KASTANIE,CASTANEA,Annenstraße,80a,,1991.0,30.0,9.0,94.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402431.3177 5821143.1908),00008100:002c6a96,130,40190,Annenstr.,Essigbaum,Rhus typhina,ESSIGBAUM,RHUS,Annenstraße,69,,2011.0,10.0,4.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402442.3747 5821140.8785),00008100:002c6a97,132,40190,Annenstr.,Essigbaum,Rhus typhina,ESSIGBAUM,RHUS,Annenstraße,69,,2006.0,15.0,6.0,66.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401813.989 5819476.2114),00008100:002c6a98,147,40658,Eckermannstr.,Korkenzieher-Weide,Salix 'Tortuosa',WEIDE,SALIX,Eckermannstraße,29,,2003.0,18.0,4.0,47.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401926.4715 5820192.7749),00008100:002c6a99,148,40658,Eckermannstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Eckermannstraße,,,2011.0,10.0,1.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401922.8459 5820166.1983),00008100:002c6a9a,150,40658,Eckermannstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Eckermannstraße,105,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401982.2645 5820485.2893),00008100:002c6a9b,151,40658,Eckermannstr.,Ahornblättrige Platane,Platanus acerifolia,PLATANE,PLATANUS,Eckermannstraße,134,,2006.0,15.0,3.0,25.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401991.8404 5820549.8937),00008100:002c6a9c,58,40658,Eckermannstr.,Ahornblättrige Platane,Platanus acerifolia,PLATANE,PLATANUS,Eckermannstraße,,,1991.0,30.0,14.0,94.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401923.6389 5820180.7884),00008100:002c6a9d,149,40658,Eckermannstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Eckermannstraße,105,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402024.4222 5820760.186),00008100:002c6a9e,152,40658,Eckermannstr.,Linde,Tilia spec.,LINDE,TILIA,Eckermannstraße,160,,2011.0,10.0,2.0,28.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401774.9989 5819214.0296),00008100:002c6a9f,146,40658,Eckermannstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Eckermannstraße,,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402028.9345 5820852.926),00008100:002c6aa0,153,40658,Eckermannstr.,Ahorn,Acer spec.,AHORN,ACER,Eckermannstraße,169,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401779.9924 5819240.9663),00008100:002c6aa1,144,40658,Eckermannstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Eckermannstraße,,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401835.4765 5820731.0807),00008100:002c6aa2,50,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402118.4259 5821294.9881),00008100:002c6aa3,59,40506,Charlottenstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Charlottenstraße,14,,1991.0,30.0,13.0,157.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402159.4666 5821049.0069),00008100:002c6aa4,55,41528,Ketschendorfer Weg,Stech-Fichte,Picea pungens,FICHTE,PICEA,Ketschendorfer Weg,59,,2001.0,20.0,4.0,63.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402161.5009 5821048.5848),00008100:002c6aa5,56,41528,Ketschendorfer Weg,Stech-Fichte,Picea pungens,FICHTE,PICEA,Ketschendorfer Weg,59,,2001.0,20.0,4.0,63.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401816.7942 5820733.8994),00008100:002c6aa6,52,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401706.3127 5820742.4376),00008100:002c6aa7,65,40398,Boschpoler Str.,Essigbaum,Rhus typhina,ESSIGBAUM,RHUS,Boschpoler Straße,,,2001.0,20.0,5.0,50.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402519.1549 5820993.4618),00008100:002c6aa8,57,41528,Ketschendorfer Weg,Korkenzieher-Weide,Salix 'Tortuosa',WEIDE,SALIX,Ketschendorfer Weg,90,,1976.0,45.0,12.0,126.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401703.8361 5820742.8359),00008100:002c6aa9,64,40398,Boschpoler Str.,Essigbaum,Rhus typhina,ESSIGBAUM,RHUS,Boschpoler Straße,,,2001.0,20.0,5.0,50.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401836.014 5820722.0189),00008100:002c6aaa,68,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402127.2078 5820677.2492),00008100:002c6aab,74,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2020.0,1.0,3.0,41.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401635.7359 5820760.6219),00008100:002c6aac,61,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,4.0,41.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402294.948 5821015.1927),00008100:002c6aad,10,41184,Hannaweg,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Hannaweg,,,2006.0,15.0,2.0,35.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402293.1895 5821015.2745),00008100:002c6aae,20,41184,Hannaweg,Eschen-Ahorn,Acer negundo,AHORN,ACER,Hannaweg,,,2006.0,15.0,4.0,38.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402026.9179 5820834.5936),00008100:002c6aaf,154,40658,Eckermannstr.,Ahorn,Acer spec.,AHORN,ACER,Eckermannstraße,167,,2011.0,10.0,1.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401858.9023 5820727.1605),00008100:002c6ab0,48,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401900.6849 5820206.0888),00008100:002c6ab1,53,40484,Buschiner Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Buschiner Straße,13a,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401625.1021 5820259.4874),00008100:002c6ab2,56,40484,Buschiner Str.,Eingriffliger Weissdorn,Crataegus monogyna,WEIßDORN,CRATAEGUS,Buschiner Straße,34,,2001.0,20.0,5.0,50.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401861.2692 5820211.5184),00008100:002c6ab3,54,40484,Buschiner Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Buschiner Straße,17,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401827.6464 5820732.4235),00008100:002c6ab4,51,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401987.2709 5820583.1564),00008100:002c6ab5,160,40658,Eckermannstr.,Ahornblättrige Platane,Platanus acerifolia,PLATANE,PLATANUS,Eckermannstraße,143,,2001.0,20.0,11.0,57.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402017.5719 5820779.7191),00008100:002c6ab6,156,40658,Eckermannstr.,Linde,Tilia spec.,LINDE,TILIA,Eckermannstraße,161,,2011.0,10.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401613.9641 5820764.4077),00008100:002c6ab7,62,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401998.1829 5820653.7613),00008100:002c6ab8,158,40658,Eckermannstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Eckermannstraße,149,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401943.5255 5820198.4216),00008100:002c6ab9,52,40484,Buschiner Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Buschiner Straße,,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401798.6881 5820736.2088),00008100:002c6aba,54,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401851.8894 5820212.4041),00008100:002c6abb,55,40484,Buschiner Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Buschiner Straße,17,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401752.5025 5820736.2114),00008100:002c6abc,67,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401726.0265 5820739.2421),00008100:002c6abd,66,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401846.0768 5820728.7842),00008100:002c6abe,49,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402095.5558 5820682.7056),00008100:002c6abf,71,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2006.0,15.0,3.0,41.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401715.1529 5820748.3062),00008100:002c6ac0,58,40398,Boschpoler Str.,Gemeine Rosskastanie,Aesculus hippocastanum,ROSSKASTANIE,AESCULUS,Boschpoler Straße,,,2001.0,20.0,4.0,57.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401994.2147 5820740.7231),00008100:002c6ac1,14,40398,Boschpoler Str.,Sand-Birke,Betula pendula,BIRKE,BETULA,Boschpoler Straße,,,1981.0,40.0,13.0,126.0,18.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401872.3433 5820724.8583),00008100:002c6ac2,46,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402111.4747 5820679.8372),00008100:002c6ac3,72,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2006.0,15.0,3.0,41.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402119.0164 5820678.7001),00008100:002c6ac4,73,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2006.0,15.0,3.0,41.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401965.4046 5820195.5816),00008100:002c6ac5,50,40484,Buschiner Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Buschiner Straße,,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401650.5909 5820758.6665),00008100:002c6ac6,60,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401861.7325 5820718.4008),00008100:002c6ac7,70,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401648.1611 5820255.9884),00008100:002c6ac8,57,40484,Buschiner Str.,Säulen-Weiss-Dorn,Crataegus monogyna 'Stricta',WEIßDORN,CRATAEGUS,Buschiner Straße,32,,2001.0,20.0,5.0,44.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401705.4708 5820750.0798),00008100:002c6ac9,59,40398,Boschpoler Str.,Gemeine Rosskastanie,Aesculus hippocastanum,ROSSKASTANIE,AESCULUS,Boschpoler Straße,,,2001.0,20.0,4.0,50.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401865.4958 5820726.4312),00008100:002c6aca,47,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401951.4596 5820207.8233),00008100:002c6acb,58,40484,Buschiner Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Buschiner Straße,,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402025.4579 5821332.1239),00008100:002c6acc,50,40506,Charlottenstr.,Fichte,Picea spec.,FICHTE,PICEA,Charlottenstraße,5,,1996.0,25.0,4.0,129.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401988.6625 5821310.882),00008100:002c6acd,51,40506,Charlottenstr.,Pappel,Populus spec.,PAPPEL,POPULUS,Charlottenstraße,,,1961.0,60.0,15.0,182.0,17.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402589.9919 5821242.6811),00008100:002c6ace,60,40506,Charlottenstr.,Tanne,Abies spec.,Tanne,Abies,Charlottenstraße,53,,2001.0,20.0,5.0,57.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401790.6512 5820737.6698),00008100:002c6acf,55,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401725.7469 5820747.139),00008100:002c6ad0,57,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401955.6251 5820196.6259),00008100:002c6ad1,51,40484,Buschiner Str.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Buschiner Straße,,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402589.2277 5821244.0484),00008100:002c6ad2,61,40506,Charlottenstr.,Tanne,Abies spec.,Tanne,Abies,Charlottenstraße,55,,2001.0,20.0,4.0,47.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402020.1288 5820794.8464),00008100:002c6ad3,155,40658,Eckermannstr.,Linde,Tilia spec.,LINDE,TILIA,Eckermannstraße,163,,2011.0,10.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401970.3172 5820473.8101),00008100:002c6ad4,161,40658,Eckermannstr.,Ahornblättrige Platane,Platanus acerifolia,PLATANE,PLATANUS,Eckermannstraße,131,,2006.0,15.0,2.0,25.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402004.5893 5820739.185),00008100:002c6ad5,45,40398,Boschpoler Str.,Blaue Stech-Fichte 'Glauca',Picea pungens 'Glauca',FICHTE,PICEA,Boschpoler Straße,,,2001.0,20.0,4.0,63.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401819.8437 5821112.7465),00008100:002c6ad6,50,41528,Ketschendorfer Weg,"Süss-Kirsche,Vogel-Kirsche",Prunus avium,,PRUNUS,Ketschendorfer Weg,,,2001.0,20.0,7.0,63.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401827.5873 5821169.6321),00008100:002c6ad7,52,41528,Ketschendorfer Weg,Korkenzieher-Weide,Salix 'Tortuosa',WEIDE,SALIX,Ketschendorfer Weg,,,1971.0,50.0,15.0,235.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402104.4452 5821055.8119),00008100:002c6ad8,53,41528,Ketschendorfer Weg,Fichte,Picea spec.,FICHTE,PICEA,Ketschendorfer Weg,,,1986.0,35.0,6.0,88.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402013.0615 5820747.7582),00008100:002c6ad9,157,40658,Eckermannstr.,Linde,Tilia spec.,LINDE,TILIA,Eckermannstraße,157,,2011.0,10.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401976.9633 5820743.9331),00008100:002c6ada,15,40398,Boschpoler Str.,Korkenzieher-Weide,Salix 'Tortuosa',WEIDE,SALIX,Boschpoler Straße,,,2006.0,15.0,4.0,56.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401810.1886 5820734.4938),00008100:002c6adb,53,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401701.7195 5820743.8337),00008100:002c6adc,63,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401993.2494 5820619.6727),00008100:002c6add,159,40658,Eckermannstr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Eckermannstraße,147,,2011.0,10.0,1.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401745.1803 5820744.1492),00008100:002c6ade,56,40398,Boschpoler Str.,Vogelbeere,Sorbus aucuparia,MEHLBEERE,SORBUS,Boschpoler Straße,,,2016.0,5.0,1.0,16.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401850.7076 5820720.5498),00008100:002c6adf,69,40398,Boschpoler Str.,Linde,Tilia spec.,LINDE,TILIA,Boschpoler Straße,,,2011.0,10.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401821.5022 5821125.2013),00008100:002c6ae0,51,41528,Ketschendorfer Weg,"Sommer-Eiche, Stiel-Eiche",Quercus robur,EICHE,QUERCUS,Ketschendorfer Weg,,,1976.0,45.0,15.0,126.0,15.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402108.2113 5821055.1516),00008100:002c6ae1,54,41528,Ketschendorfer Weg,Fichte,Picea spec.,FICHTE,PICEA,Ketschendorfer Weg,,,1986.0,35.0,6.0,91.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401349.5166 5819380.0112),00008100:002c6ae2,88,41846,Luise-Zietz-Str.,Kirsche,Prunus spec.,,PRUNUS,Luise-Zietz-Straße,15,,2011.0,10.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402282.5141 5820944.1582),00008100:002c6ae3,60,41184,Hannaweg,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Hannaweg,,,1961.0,60.0,15.0,170.0,18.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402242.5253 5820403.3695),00008100:002c6ae4,49,41630,Kornmandelweg,Grau-Pappel,Populus canescens,PAPPEL,POPULUS,Kornmandelweg,,,1996.0,25.0,7.0,75.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402231.9706 5820403.099),00008100:002c6ae5,52,41630,Kornmandelweg,Grau-Pappel,Populus canescens,PAPPEL,POPULUS,Kornmandelweg,,,2003.0,18.0,5.0,44.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401618.4601 5819199.6513),00008100:002c6ae6,37,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,2001.0,20.0,7.0,103.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401661.7258 5820997.969),00008100:002c6ae7,310,44835,Cecilienstr.,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Cecilienstraße,3,,2006.0,15.0,3.0,41.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401355.6843 5819417.4419),00008100:002c6ae8,86,41846,Luise-Zietz-Str.,Kirsche,Prunus spec.,,PRUNUS,Luise-Zietz-Straße,19,,2011.0,10.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402290.5051 5820994.2236),00008100:002c6ae9,40,41184,Hannaweg,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Hannaweg,,,2001.0,20.0,5.0,50.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402658.4017 5821192.173),00008100:002c6aea,67,41307,Hiltrudstr.,Korkenzieher-Weide,Salix 'Tortuosa',WEIDE,SALIX,Hiltrudstraße,,,2001.0,20.0,8.0,139.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402637.6549 5820457.3822),00008100:002c6aeb,46,41630,Kornmandelweg,Kirsche,Prunus spec.,,PRUNUS,Kornmandelweg,,,1996.0,25.0,9.0,63.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402286.788 5820972.8174),00008100:002c6aec,50,41184,Hannaweg,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Hannaweg,,,1976.0,45.0,13.0,119.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402237.3594 5820405.1962),00008100:002c6aed,51,41630,Kornmandelweg,Grau-Pappel,Populus canescens,PAPPEL,POPULUS,Kornmandelweg,,,2003.0,18.0,5.0,47.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402239.0781 5820400.6912),00008100:002c6aee,50,41630,Kornmandelweg,Grau-Pappel,Populus canescens,PAPPEL,POPULUS,Kornmandelweg,,,2001.0,20.0,5.0,75.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402281.2816 5820940.0411),00008100:002c6aef,70,41184,Hannaweg,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Hannaweg,,,1986.0,35.0,,88.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402207.2216 5820405.5305),00008100:002c6af0,53,41630,Kornmandelweg,Kirsche,Prunus spec.,,PRUNUS,Kornmandelweg,,,1996.0,25.0,5.0,57.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401617.2689 5819199.8065),00008100:002c6af1,38,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,2001.0,20.0,7.0,50.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401615.225 5819198.2425),00008100:002c6af2,40,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,2001.0,20.0,7.0,44.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401351.6148 5819395.6219),00008100:002c6af3,87,41846,Luise-Zietz-Str.,Kirsche,Prunus spec.,,PRUNUS,Luise-Zietz-Straße,17,,2011.0,10.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401593.7228 5819210.2851),00008100:002c6af4,48,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,1996.0,25.0,12.0,63.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401602.2656 5819200.7555),00008100:002c6af5,45,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,1981.0,40.0,15.0,110.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401929.2072 5819605.4292),00008100:002c6af6,40,41720,Lappiner Str.,Unbekannt,Unbekannt,,UNBEKANNT,Lappiner Straße,3,,2011.0,10.0,3.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401612.4457 5819200.421),00008100:002c6af7,42,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,2001.0,20.0,8.0,114.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401611.3522 5819200.916),00008100:002c6af8,43,41676,Kulmseestr.,Spitz-Ahorn 'Allershausen',Acer platanoides 'Allershausen',AHORN,ACER,Kulmseestraße,,,2001.0,20.0,6.0,44.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401602.7078 5819206.3796),00008100:002c6af9,46,41676,Kulmseestr.,"Süss-Kirsche,Vogel-Kirsche",Prunus avium,,PRUNUS,Kulmseestraße,,,1991.0,30.0,11.0,183.0,15.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401359.2091 5819437.6657),00008100:002c6afa,85,41846,Luise-Zietz-Str.,Kirsche,Prunus spec.,,PRUNUS,Luise-Zietz-Straße,21,,2011.0,10.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401605.58 5819202.439),00008100:002c6afb,44,41676,Kulmseestr.,Sand-Birke,Betula pendula,BIRKE,BETULA,Kulmseestraße,,,1991.0,30.0,10.0,85.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401942.3425 5820961.3313),00008100:002c6afc,311,44835,Cecilienstr.,Ulme,Ulmus spec.,ULME,ULMUS,Cecilienstraße,41,,1991.0,30.0,11.0,94.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402252.1834 5820405.8713),00008100:002c6afd,48,41630,Kornmandelweg,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Kornmandelweg,,,2006.0,15.0,1.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402292.3648 5821004.4233),00008100:002c6afe,30,41184,Hannaweg,Gewöhnliche Esche,Fraxinus excelsior,ESCHE,FRAXINUS,Hannaweg,,,2006.0,15.0,2.0,35.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401666.1269 5819188.7352),00008100:002c6aff,35,41676,Kulmseestr.,Rot-Buche,Fagus sylvatica,BUCHE,FAGUS,Kulmseestraße,,,1961.0,60.0,18.0,182.0,20.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401347.9177 5819364.7657),00008100:002c6b00,89,41846,Luise-Zietz-Str.,Kirsche,Prunus spec.,,PRUNUS,Luise-Zietz-Straße,13,,2011.0,10.0,2.0,25.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401595.4691 5819206.5328),00008100:002c6b01,47,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,1991.0,30.0,11.0,233.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402343.2967 5820410.3486),00008100:002c6b02,47,41630,Kornmandelweg,Baum-Hasel,Corylus colurna,HASEL,CORYLUS,Kornmandelweg,,,2006.0,15.0,2.0,25.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402638.7045 5820462.855),00008100:002c6b03,45,41630,Kornmandelweg,Eiche 'Concordia',Quercus robur 'Concordia',EICHE,QUERCUS,Kornmandelweg,,,1996.0,25.0,8.0,63.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402209.5192 5820403.1248),00008100:002c6b04,54,41630,Kornmandelweg,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kornmandelweg,,,1976.0,45.0,16.0,119.0,16.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401612.7861 5819199.2921),00008100:002c6b05,41,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,2001.0,20.0,7.0,94.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401616.6825 5819198.4188),00008100:002c6b06,39,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,2001.0,20.0,8.0,57.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (401619.2286 5819198.6357),00008100:002c6b07,36,41676,Kulmseestr.,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Kulmseestraße,,,2001.0,20.0,7.0,53.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (387931.6577 5827996.6978),00008100:002c6cc0,045,04020,SCHORFHEIDESTR.,Hainbuche,Carpinus betulus,HAINBUCHE,CARPINUS,Schorfheidestraße,,,,,,22.0,5.0,Reinickendorf,Land Berlin
+POINT (404554.9823 5820544.5319),00008100:002c6d74,104,44877,Erich-Kästner-Straße,Pappel,Populus spec.,PAPPEL,POPULUS,Erich-Kästner-Straße,53,,2001.0,20.0,6.0,69.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404481.4502 5820968.4425),00008100:002c6d75,44,43991,Etkar-Andre-Straße,Silber-Ahorn,Acer saccharinum,AHORN,ACER,Etkar-André-Straße,2,,2001.0,20.0,8.0,210.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404477.8233 5820922.0609),00008100:002c6d76,36,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404494.7633 5820951.5863),00008100:002c6d77,46,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404497.8101 5820961.4297),00008100:002c6d78,47,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404529.2424 5820975.254),00008100:002c6d79,52,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,4,,2006.0,15.0,3.0,63.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404473.5839 5820880.9724),00008100:002c6d7a,30,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404697.8847 5820517.3052),00008100:002c6d7b,100,44877,Erich-Kästner-Straße,Eschen-Ahorn,Acer negundo,AHORN,ACER,Erich-Kästner-Straße,63,,1981.0,40.0,10.0,119.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404486.1614 5820950.0365),00008100:002c6d7c,39,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404470.6727 5820895.6124),00008100:002c6d7d,34,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404482.2638 5820973.9647),00008100:002c6d7e,45,43991,Etkar-Andre-Straße,Silber-Ahorn,Acer saccharinum,AHORN,ACER,Etkar-André-Straße,2,,2001.0,20.0,7.0,135.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404510.0985 5820985.1409),00008100:002c6d7f,50,43991,Etkar-Andre-Straße,Silber-Ahorn,Acer saccharinum,AHORN,ACER,Etkar-André-Straße,4,,1986.0,35.0,10.0,220.0,11.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404522.1284 5820976.6677),00008100:002c6d80,51,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,4,,2006.0,15.0,3.0,53.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404501.0463 5820971.8196),00008100:002c6d81,48,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2006.0,15.0,3.0,57.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404511.6875 5820978.7434),00008100:002c6d82,49,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,4,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404641.3552 5820531.0296),00008100:002c6d83,101,44877,Erich-Kästner-Straße,Eschen-Ahorn,Acer negundo,AHORN,ACER,Erich-Kästner-Straße,61,,1981.0,40.0,8.0,94.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404461.9386 5820565.6189),00008100:002c6d84,106,44877,Erich-Kästner-Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Erich-Kästner-Straße,43,,2006.0,15.0,3.0,47.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404651.6422 5820506.6087),00008100:002c6d85,96,44877,Erich-Kästner-Straße,Ahornblättrige Platane,Platanus acerifolia,PLATANE,PLATANUS,Erich-Kästner-Straße,64,,1986.0,35.0,10.0,110.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404495.471 5820978.2368),00008100:002c6d86,42,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404653.726 5820514.4367),00008100:002c6d87,97,44877,Erich-Kästner-Straße,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Erich-Kästner-Straße,64,,1991.0,30.0,9.0,126.0,12.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404482.8139 5820911.745),00008100:002c6d88,31,43991,Etkar-Andre-Straße,Silber-Ahorn,Acer saccharinum,AHORN,ACER,Etkar-André-Straße,2,,1996.0,25.0,9.0,110.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404442.5154 5820570.7137),00008100:002c6d89,108,44877,Erich-Kästner-Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Erich-Kästner-Straße,39,,2006.0,15.0,3.0,50.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404466.8156 5820858.5299),00008100:002c6d8a,28,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404472.8776 5820903.4546),00008100:002c6d8b,35,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404462.4943 5820867.9936),00008100:002c6d8c,32,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404655.0177 5820520.5502),00008100:002c6d8d,98,44877,Erich-Kästner-Straße,Ahornblättrige Platane,Platanus acerifolia,PLATANE,PLATANUS,Erich-Kästner-Straße,64,,1986.0,35.0,11.0,119.0,13.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404630.9927 5820533.5187),00008100:002c6d8e,102,44877,Erich-Kästner-Straße,Silber-Ahorn,Acer saccharinum,AHORN,ACER,Erich-Kästner-Straße,59,,1981.0,40.0,9.0,123.0,14.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404492.2641 5820969.2287),00008100:002c6d8f,41,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404480.5542 5820931.5371),00008100:002c6d90,37,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404478.8857 5820957.3487),00008100:002c6d91,43,43991,Etkar-Andre-Straße,Silber-Ahorn,Acer saccharinum,AHORN,ACER,Etkar-André-Straße,2,,2001.0,20.0,5.0,63.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404464.8172 5820565.0245),00008100:002c6d92,105,44877,Erich-Kästner-Straße,Weide,Salix spec.,WEIDE,SALIX,Erich-Kästner-Straße,43,,1981.0,40.0,10.0,135.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404707.5347 5820502.9444),00008100:002c6d93,99,44877,Erich-Kästner-Straße,Eschen-Ahorn,Acer negundo,AHORN,ACER,Erich-Kästner-Straße,65,,1981.0,40.0,11.0,119.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404563.7038 5820543.0294),00008100:002c6d94,103,44877,Erich-Kästner-Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Erich-Kästner-Straße,53,,1991.0,30.0,5.0,72.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404470.3596 5820869.663),00008100:002c6d95,29,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404483.8694 5820941.6993),00008100:002c6d96,38,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404467.6203 5820886.0024),00008100:002c6d97,33,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404445.5542 5820570.2066),00008100:002c6d98,107,44877,Erich-Kästner-Straße,Spitz-Ahorn,Acer platanoides,AHORN,ACER,Erich-Kästner-Straße,39,,2006.0,15.0,3.0,38.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404489.0601 5820960.1633),00008100:002c6d99,40,43991,Etkar-Andre-Straße,Linde,Tilia spec.,LINDE,TILIA,Etkar-André-Straße,2,,2020.0,1.0,1.0,22.0,3.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402817.2336 5821562.4651),00008100:002c6dfc,682,44857,Blumberger Damm,Kaiser-Linde,Tilia intermedia 'Pallida',LINDE,TILIA,Blumberger Damm,,,,,2.0,19.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402702.3948 5814853.034),00008100:002c6e0d,37,40351,Bismarcksfelder Str.,,,,,Bismarcksfelder Straße,,,,,9.0,141.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (405632.3576 5822349.2053),00008100:002c70a0,78,44011,Zerbster Straße,Weide,Salix spec.,WEIDE,SALIX,Zerbster Straße,11,,1999.0,22.0,5.0,85.0,15.0,Marzahn-Hellersdorf,Land Berlin
+POINT (405617.7505 5822350.1207),00008100:002c70a1,68,44011,Zerbster Straße,Eschen-Ahorn,Acer negundo,AHORN,ACER,Zerbster Straße,11,,1996.0,25.0,8.0,50.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (402914.1131 5820660.3349),00008100:002c70aa,1,10722,Fred-Löwenberg-Platz,Kugel-Ahorn,Acer platanoides 'Globosum',AHORN,ACER,Fred-Löwenberg-Platz,,,,,,,,Marzahn-Hellersdorf,Land Berlin
+POINT (402908.9769 5820657.5072),00008100:002c70ac,2,10722,Fred-Löwenberg-Platz,Kugel-Ahorn,Acer platanoides 'Globosum',AHORN,ACER,Fred-Löwenberg-Platz,,,,,,,,Marzahn-Hellersdorf,Land Berlin
+POINT (404717.1192 5820920.9424),00008100:002c70b1,81,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,19,,2006.0,15.0,7.0,94.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404539.5436 5820963.9155),00008100:002c70b2,99,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,4,,2006.0,15.0,3.0,35.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404525.5926 5820940.4124),00008100:002c70b3,104,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,4,,1991.0,30.0,5.0,88.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404522.5408 5820927.2582),00008100:002c70b4,107,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,4,,1991.0,30.0,6.0,88.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404639.154 5820940.8034),00008100:002c70b5,89,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,15,,2006.0,15.0,4.0,53.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404502.8409 5820947.4886),00008100:002c70b6,111,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,4,,2006.0,15.0,4.0,47.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404633.9984 5820941.863),00008100:002c70b7,90,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,15,,2006.0,15.0,4.0,53.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404497.5414 5820929.149),00008100:002c70b8,113,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,4,,2006.0,15.0,5.0,63.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404722.7232 5820919.1648),00008100:002c70b9,80,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,19,,2006.0,15.0,5.0,72.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404583.4676 5820953.7309),00008100:002c70ba,94,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,7,,2006.0,15.0,4.0,53.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404518.3581 5820958.3083),00008100:002c70bb,102,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,4,,1991.0,30.0,10.0,119.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404509.5606 5820930.2776),00008100:002c70bc,106,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,4,,1991.0,30.0,10.0,123.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404703.7586 5820923.9377),00008100:002c70bd,82,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,17,,2006.0,15.0,6.0,72.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404671.5346 5820933.5437),00008100:002c70be,86,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,17,,2006.0,15.0,2.0,47.0,4.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404740.8241 5820914.9563),00008100:002c70bf,78,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,23,,2006.0,15.0,6.0,85.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404665.2053 5820935.1106),00008100:002c70c0,87,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,15,,2006.0,15.0,4.0,85.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404612.2083 5820947.1716),00008100:002c70c1,91,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,11,,2006.0,15.0,5.0,63.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404677.6516 5820932.3551),00008100:002c70c2,85,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,17,,2006.0,15.0,4.0,66.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404519.7413 5820915.211),00008100:002c70c3,108,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,4,,1991.0,30.0,11.0,129.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404695.4309 5820925.9696),00008100:002c70c4,84,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,17,,2006.0,15.0,6.0,91.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404598.1432 5820950.1556),00008100:002c70c5,93,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,9,,2006.0,15.0,5.0,53.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404520.6691 5820967.918),00008100:002c70c6,101,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,4,,2006.0,15.0,5.0,63.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404512.3875 5820943.4095),00008100:002c70c7,105,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,4,,1991.0,30.0,11.0,116.0,10.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404649.8201 5820938.0379),00008100:002c70c8,88,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,15,,2006.0,15.0,5.0,79.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404552.8562 5820960.725),00008100:002c70c9,97,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,5,,2006.0,15.0,4.0,63.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404545.8159 5820962.2509),00008100:002c70ca,98,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,4,,2006.0,15.0,4.0,50.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404730.9264 5820916.9745),00008100:002c70cb,79,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,21,,2006.0,15.0,6.0,79.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404527.1262 5820966.3603),00008100:002c70cc,100,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,4,,2006.0,15.0,5.0,66.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404499.6194 5820935.5034),00008100:002c70cd,112,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,4,,2006.0,15.0,4.0,41.0,5.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404507.1705 5820961.2179),00008100:002c70ce,109,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,4,,2006.0,15.0,6.0,82.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404606.0211 5820948.7034),00008100:002c70cf,92,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,11,,2006.0,15.0,5.0,60.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404699.7062 5820925.0336),00008100:002c70d0,83,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,17,,2006.0,15.0,6.0,63.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404504.7996 5820953.9875),00008100:002c70d1,110,43991,Etkar-Andre-Straße,Dreidorniger Lederhülsenbaum,Gleditsia triacanthos,GLEDITSCHIE,GLEDITSIA,Etkar-André-Straße,4,,2006.0,15.0,5.0,66.0,8.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404529.9345 5820954.8441),00008100:002c70d2,103,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,4,,1991.0,30.0,6.0,85.0,7.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404576.043 5820955.5621),00008100:002c70d3,95,43991,Etkar-Andre-Straße,Ulme,Ulmus spec.,ULME,ULMUS,Etkar-André-Straße,5,,2006.0,15.0,4.0,47.0,6.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404576.2006 5820968.0605),00008100:002c70d4,54,43991,Etkar-Andre-Straße,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Etkar-André-Straße,5,,1991.0,30.0,7.0,113.0,9.0,Marzahn-Hellersdorf,Land Berlin
+POINT (404581.9886 5820966.5994),00008100:002c70d5,55,43991,Etkar-Andre-Straße,Robinie,Robinia pseudoacacia,ROBINIE,ROBINIA,Etkar-André-Straße,7,,1991.0,30.0,7.0,110.0,9.0,Marzahn-Hellersdorf,Land Berlin
