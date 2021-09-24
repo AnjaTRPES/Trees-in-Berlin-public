@@ -90,12 +90,12 @@ Weiter unten könnt ihr euch dann über die entsprechende Baumsorte informieren 
 
 
 fig = px.scatter_mapbox(trees,
-                        lat = 'lat',
-                        lon = 'lon',
-                        hover_name = "art_dtsch",
-                        color = 'art_dtsch',
-                        zoom = 9, center = {"lat": 52.5200, "lon": 13.4050},
-                        labels = {'art_dtsch':'Art:'}
+                        lat='lat',
+                        lon='lon',
+                        hover_name="art_dtsch",
+                        color='art_dtsch',
+                        zoom=9, center={"lat": 52.5200, "lon": 13.4050},
+                        labels={'art_dtsch':'Art:'}
                        )
 fig.update_layout(mapbox_style = "open-street-map",
                   template=template)
@@ -106,7 +106,9 @@ arts_initial=trees.art_dtsch.unique()
 trees_json = trees.to_json(orient = 'split')
 
 app.layout=html.Div([
-    html.H1('Bäume in Berlin'),
+    html.H1('Bäume in Berlin',
+            style={'textAlign': 'center', 'width': "80%",
+                   "display": "inline-block"}),
     html.Div(children=Explainertext),
     html.Div(children='Erstellt von: https://github.com/AnjaTRPES'),
     html.Div(children=[
@@ -115,13 +117,19 @@ app.layout=html.Div([
                         options = [{'label': value,'value': value} for value in variant_names],
                          value = variant_names[0]
                         )],
-            style=dict(width='50%')),
+            style={"width": '30%',
+                   "display": "inline-block",
+                   "position":"absolute",
+                   "left":"0px"}),
         html.Div(children=[
         dcc.Dropdown(id = 'variants_more',
                      options = [{'label': value,'value': value} for value in variant_names_ext[0]],
                      value = variant_names_ext[0][0]
                      )],
-            style=dict(width='40%'))
+            style={"width": '30%',
+                   "display": "inline-block",
+                   "position":"absolute",
+                   "right":"0px"})
     ],style=dict(display='flex')),
     dcc.Graph(id = 'map',figure = fig),
     
@@ -181,7 +189,7 @@ def update_figure(more,value):
                        )
     fig.update_layout(mapbox_style="open-street-map",
                      uirevision='True',
-                     #transition={'duration':500,'easing':'cubic-in-out'}
+                     template=template
                      )
     fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 
