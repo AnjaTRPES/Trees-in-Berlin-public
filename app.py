@@ -26,6 +26,8 @@ import plotly.graph_objects as go
 import os as os
 from github import Github
 
+template = 'plotly_dark'
+
 def get_wiki_link(latin_names):
     latin_name = latin_names[0]
     #remove the '' if present
@@ -50,8 +52,9 @@ def get_wiki_link(latin_names):
 token = os.environ['mapbox_token']
 px.set_mapbox_access_token(token)
 
-app=DashProxy(__name__,prevent_initial_callbacks=True, transforms=[MultiplexerTransform()],
-              title = 'Bäume in Berlin')
+app = DashProxy(__name__, prevent_initial_callbacks=True,
+                transforms=[MultiplexerTransform()],
+                title='Bäume in Berlin')
 
 server = app.server
 
@@ -94,7 +97,8 @@ fig = px.scatter_mapbox(trees,
                         zoom = 9, center = {"lat": 52.5200, "lon": 13.4050},
                         labels = {'art_dtsch':'Art:'}
                        )
-fig.update_layout(mapbox_style = "open-street-map")
+fig.update_layout(mapbox_style = "open-street-map",
+                  template=template)
 fig.update_layout(margin = {"r":0,"t":0,"l":0,"b":0})
 
 arts_initial=trees.art_dtsch.unique()
