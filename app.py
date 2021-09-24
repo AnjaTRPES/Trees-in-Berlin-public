@@ -143,7 +143,7 @@ app.layout=html.Div([
                    # "height": "100%",
                    # "right":"10%"
                    })
-    ],style=dict(display='flex')),
+    ]), # ,style=dict(display='flex')),
     html.Div(
     dcc.Graph(id = 'map',figure = fig),),
     
