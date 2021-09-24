@@ -106,9 +106,18 @@ arts_initial=trees.art_dtsch.unique()
 trees_json = trees.to_json(orient = 'split')
 
 app.layout=html.Div([
-    html.H1('Bäume in Berlin',
-            style={'textAlign': 'center', 'width': "80%",
-                   "display": "inline-block"}),
+    html.Div([
+        html.H1('Bäume in Berlin',
+                style={'textAlign': 'center', 'width': "80%",
+                       "display": "inline-block"}),
+        html.Label(["Created by ",
+                    html.A("Anja",
+                           href='https://github.com/AnjaTRPES/Trees-in-Berlin-public'),
+                    " using ",
+                    html.A("Dash and Plotly", href='https://plotly.com/dash/')
+                    ],
+               style={"width": "18%","display": "inline-block"})
+    ]),
     html.Div(children=Explainertext),
     html.Div(children='Erstellt von: https://github.com/AnjaTRPES'),
     html.Div(children=[
@@ -129,9 +138,11 @@ app.layout=html.Div([
             style={"width": '30%',
                    "display": "inline-block",
                    "position":"absolute",
-                   "right":"0px"})
+                   "right":"10%"})
     ],style=dict(display='flex')),
-    dcc.Graph(id = 'map',figure = fig),
+    html.Div(
+    dcc.Graph(id = 'map',figure = fig),),
+    
     
     dcc.Checklist(id = 'type_checklist',
         options=[{'label': value,'value': value} for value in np.sort(arts_initial)],
