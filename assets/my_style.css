@@ -12,5 +12,10 @@ a{
 
 #variants_dropdown, #variants_more, #arts_dropdown{
     color: black;
-    padding: 2px;
+    padding: 5px;
 }
+
+.VirtualizedSelectOption {
+    background-color: white;
+    color: black;
+ }
