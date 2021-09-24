@@ -129,6 +129,7 @@ app.layout=html.Div([
             style={"width": '30%',
                    "display": "inline-block",
                    "position":"absolute",
+                   "height": "100%",
                    "left":"0px"}),
         html.Div(children=[
         dcc.Dropdown(id = 'variants_more',
@@ -138,6 +139,7 @@ app.layout=html.Div([
             style={"width": '30%',
                    "display": "inline-block",
                    "position":"absolute",
+                   "height": "100%",
                    "right":"10%"})
     ],style=dict(display='flex')),
     html.Div(

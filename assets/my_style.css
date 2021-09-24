@@ -10,3 +10,6 @@ a{
     color: magenta;
 }
 
+#variants_dropdown, #variants_more, #arts_dropdown{
+    color: black;
+}
