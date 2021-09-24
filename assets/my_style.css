@@ -12,4 +12,5 @@ a{
 
 #variants_dropdown, #variants_more, #arts_dropdown{
     color: black;
+    padding: 2px;
 }

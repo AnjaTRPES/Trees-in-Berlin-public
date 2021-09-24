@@ -118,8 +118,8 @@ app.layout=html.Div([
                     ],
                style={"width": "18%","display": "inline-block"})
     ]),
-    html.Div(children=Explainertext),
-    html.Div(children='Erstellt von: https://github.com/AnjaTRPES'),
+    html.Div(children=Explainertext,
+             style={"padding": "5px"}),
     html.Div(children=[
         html.Div(children=[
             dcc.Dropdown(id = 'variants_dropdown',
@@ -129,8 +129,9 @@ app.layout=html.Div([
             style={"width": '30%',
                    "display": "inline-block",
                    "position":"absolute",
-                   "height": "100%",
-                   "left":"0px"}),
+                   # "height": "100%",
+                   # "left":"0px"
+                   }),
         html.Div(children=[
         dcc.Dropdown(id = 'variants_more',
                      options = [{'label': value,'value': value} for value in variant_names_ext[0]],
@@ -139,8 +140,9 @@ app.layout=html.Div([
             style={"width": '30%',
                    "display": "inline-block",
                    "position":"absolute",
-                   "height": "100%",
-                   "right":"10%"})
+                   # "height": "100%",
+                   # "right":"10%"
+                   })
     ],style=dict(display='flex')),
     html.Div(
     dcc.Graph(id = 'map',figure = fig),),
