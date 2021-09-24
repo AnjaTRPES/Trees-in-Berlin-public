@@ -127,8 +127,8 @@ app.layout=html.Div([
                          value = variant_names[0]
                         )],
             style={"width": '30%',
-                   "display": "inline-block",
-                   "position":"absolute",
+                   # "display": "inline-block",
+                   # "position":"absolute",
                    # "height": "100%",
                    # "left":"0px"
                    }),
@@ -138,12 +138,12 @@ app.layout=html.Div([
                      value = variant_names_ext[0][0]
                      )],
             style={"width": '30%',
-                   "display": "inline-block",
-                   "position":"absolute",
+                   # "display": "inline-block",
+                   # "position":"absolute",
                    # "height": "100%",
                    # "right":"10%"
                    })
-    ]), # ,style=dict(display='flex')),
+    ] ,style=dict(display='flex')),
     html.Div(
     dcc.Graph(id = 'map',figure = fig),),
     
